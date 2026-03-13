@@ -1,0 +1,6 @@
+{
+  "name": "DS3231 Temperature and Time",
+  "documentation": "Driver for DS3231 RTC with temperature sensor",
+  "codeowners": ["@your-github"],
+  "integrations": ["ds3231"]
+}
